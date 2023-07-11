@@ -52,5 +52,5 @@ Unsupervised Learning to predict if crytocurrenices are affected by 24 hour or a
 * Answered the following question:
   What is the impact of using fewer features to cluster the data using K-Means?
 
-# Documented Help Received For Assignment
+### Documented Help Received For Assignment
 Received Help From Study Groups
